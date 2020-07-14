@@ -1,7 +1,7 @@
 # Python3-Text-Editor
 This repository is a template to create your own code/text editor that will suite your needs
 
-## Demonostration
+## Demonstration
 Here is a demonstration of tis repository. The same text comes out in macOS TextEdit too.
 ![demo](https://github.com/VismayaAtreya/Python3-Text-Editor/blob/master/Demonstration.gif)
 
