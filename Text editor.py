@@ -24,6 +24,12 @@ def new_file(): #Define the function to create a new file
     
 def savefile(text): #Define the function to save the file
     try:
+        print('Extensions:')
+        print('.txt: Text file')
+        print('.py: Python File')
+        print('.xml: XML File Encoding')
+        print('.html: Webpage File')
+        print('.md: MarkDown')
         text_file = open(input('Save file as(with extension): '), "w")
         text_file.write(text)
         text_file.close()
@@ -38,3 +44,4 @@ welcome_pic.pack(side = "top")
 newbut = tk.Button(welcome, command=lambda: new_file(),text="Create a new file")
 newbut.pack(side = 'bottom')
 welcome.mainloop()
+
