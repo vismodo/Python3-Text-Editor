@@ -3,7 +3,7 @@ This repository is a template to create your own code/text editor that will suit
 
 ## Demonostration
 Here is a demonstration of tis repository. The same text comes out in macOS TextEdit too.
-![demo](https://github.com/VismayaAtreya/Python3-Text-Editor/blob/master/Demonstration.gif)
+![demo]((https://github.com/VismayaAtreya/Python3-Text-Editor/blob/master/Demonstration.gif){:1920="36px" width="1106px"}.
 
 ## Running the code
 
