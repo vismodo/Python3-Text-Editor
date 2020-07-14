@@ -1,6 +1,10 @@
 # Python3-Text-Editor
 This repository is a template to create your own code/text editor that will suite your needs
 
+## Demonostration
+Here is a demonstration of tis repository. The same text comes out in macOS TextEdit too.
+![demo](https://github.com/VismayaAtreya/Python3-Text-Editor/blob/master/Demonstration.gif)
+
 ## Running the code
 
 1. Clone this repository by clicking [here](https://github.com/VismayaAtreya/Python3-Text-Editor/archive/master.zip). Extract the contents of the file into one folder. Launch 'Text Editor.py' in IDLE for Python 3.6 or later. I used Python 3.8.3.
@@ -37,4 +41,4 @@ Click [here](https://github.com/VismayaAtreya/Python3-Text-Editor/blob/master/Te
 
 ## Like this repository?
 
-Star this repository or [report any issues with the code](https://github.com/VismayaAtreya/Python3-Text-Editor/issues). Also check out my [other repositories](https://github.com/VismayaAtreya)
+Star this repository or [report any issues with the code](https://github.com/VismayaAtreya/Python3-Text-Editor/issues). Also check out my [other repositories](https://github.com/VismayaAtreya).
